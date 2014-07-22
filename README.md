@@ -26,3 +26,5 @@ tf2
 
 The final dataset with the average for each activity per varible
 mdata
+
+The dataset with the tf values was named tableWL, the tf2 values appear in tableActivityLabels and mdata in mdata
